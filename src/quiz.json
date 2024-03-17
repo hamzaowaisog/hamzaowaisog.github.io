@@ -1,0 +1,138 @@
+{
+    "Python": [
+      {
+        "question": "What is Python?",
+        "options": ["A snake", "A programming language", "A type of food", "A board game"],
+        "correctAnswer": "A programming language"
+      },
+      {
+        "question": "Which symbol is used for comments in Python?",
+        "options": ["//", "/* */", "<!-- -->", "#"],
+        "correctAnswer": "#"
+      },
+      {
+        "question": "How do you declare a Python variable?",
+        "options": ["variable myVar;", "v myVar;", "var myVar;", "myVar = value;"],
+        "correctAnswer": "myVar = value;"
+      },
+      {
+        "question": "Which method is used to display a message in Python?",
+        "options": ["alert()", "popup()", "print()", "display()"],
+        "correctAnswer": "print()"
+      },
+      {
+        "question": "Which operator is used to assign a value to a variable in Python?",
+        "options": ["*", "=", "+", ":"],
+        "correctAnswer": "="
+      }
+    ],
+    "C++": [
+      {
+        "question": "What is C++?",
+        "options": ["A programming language", "A type of food", "A board game", "A musical instrument"],
+        "correctAnswer": "A programming language"
+      },
+      {
+        "question": "Which symbol is used for comments in C++?",
+        "options": ["//", "/* */", "<!-- -->", "#"],
+        "correctAnswer": "//"
+      },
+      {
+        "question": "How do you declare a C++ variable?",
+        "options": ["variable myVar;", "v myVar;", "var myVar;", "myVar = value;"],
+        "correctAnswer": "var myVar;"
+      },
+      {
+        "question": "Which method is used to display a message in C++?",
+        "options": ["alert()", "popup()", "cout <<", "display()"],
+        "correctAnswer": "cout <<"
+      },
+      {
+        "question": "Which operator is used to assign a value to a variable in C++?",
+        "options": ["*", "=", "+", ":="],
+        "correctAnswer": "="
+      }
+    ],
+    "C#": [
+      {
+        "question": "What is C#?",
+        "options": ["A programming language", "A type of food", "A board game", "A musical instrument"],
+        "correctAnswer": "A programming language"
+      },
+      {
+        "question": "Which symbol is used for comments in C#?",
+        "options": ["//", "/* */", "<!-- -->", "#"],
+        "correctAnswer": "//"
+      },
+      {
+        "question": "How do you declare a C# variable?",
+        "options": ["variable myVar;", "v myVar;", "var myVar;", "myVar = value;"],
+        "correctAnswer": "var myVar;"
+      },
+      {
+        "question": "Which method is used to display a message in C#?",
+        "options": ["alert()", "popup()", "Console.WriteLine()", "display()"],
+        "correctAnswer": "Console.WriteLine()"
+      },
+      {
+        "question": "Which operator is used to assign a value to a variable in C#?",
+        "options": ["*", "=", "+", ":="],
+        "correctAnswer": "="
+      }
+    ],
+    "Java": [
+      {
+        "question": "What is Java?",
+        "options": ["A programming language", "A type of coffee", "An island in Indonesia", "A type of car"],
+        "correctAnswer": "A programming language"
+      },
+      {
+        "question": "Which symbol is used for comments in Java?",
+        "options": ["//", "/* */", "<!-- -->", "#"],
+        "correctAnswer": "//"
+      },
+      {
+        "question": "How do you declare a Java variable?",
+        "options": ["variable myVar;", "v myVar;", "var myVar;", "myVar = value;"],
+        "correctAnswer": "var myVar;"
+      },
+      {
+        "question": "Which method is used to display a message in Java?",
+        "options": ["alert()", "popup()", "System.out.println()", "display()"],
+        "correctAnswer": "System.out.println()"
+      },
+      {
+        "question": "Which operator is used to assign a value to a variable in Java?",
+        "options": ["*", "=", "+", ":="],
+        "correctAnswer": "="
+      }
+    ],
+    "HTML": [
+      {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyperlink Text Markup Language"],
+        "correctAnswer": "Hyper Text Markup Language"
+      },
+      {
+        "question": "Which HTML element is used to define important text?",
+        "options": ["<i>", "<strong>", "<b>", "<em>"],
+        "correctAnswer": "<strong>"
+      },
+      {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "options": ["class", "style", "font", "styles"],
+        "correctAnswer": "style"
+      },
+      {
+        "question": "Which character is used to indicate an end tag?",
+        "options": ["/", "<", "*", "^"],
+        "correctAnswer": "/"
+      },
+      {
+        "question": "What is the correct HTML for creating a hyperlink?",
+        "options": ["<a href='example.com'>Example</a>", "<a url='example.com'>Example</a>", "<a>example.com</a>", "<a name='example.com'>Example</a>"],
+        "correctAnswer": "<a href='example.com'>Example</a>"
+      }
+    ]
+  }
+  
